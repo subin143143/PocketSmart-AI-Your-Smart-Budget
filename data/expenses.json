@@ -1,0 +1,17 @@
+{
+  "budget": 5000,
+  "expenses": [
+    {
+      "id": 1,
+      "name": "Food",
+      "amount": 500,
+      "category": "Food"
+    },
+    {
+      "id": 2,
+      "name": "Bus",
+      "amount": 200,
+      "category": "Travel"
+    }
+  ]
+}
